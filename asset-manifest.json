@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/techmithlesh/static/css/main.5579def6.css",
+    "main.js": "/techmithlesh/static/js/main.85469cac.js",
+    "index.html": "/techmithlesh/index.html",
+    "main.5579def6.css.map": "/techmithlesh/static/css/main.5579def6.css.map",
+    "main.85469cac.js.map": "/techmithlesh/static/js/main.85469cac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5579def6.css",
+    "static/js/main.85469cac.js"
+  ]
+}
